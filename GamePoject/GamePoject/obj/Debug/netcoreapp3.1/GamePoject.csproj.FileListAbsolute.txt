@@ -1,0 +1,13 @@
+C:\Users\Zeynep\Desktop\Yeni klasör\GamePoject\GamePoject\bin\Debug\netcoreapp3.1\GamePoject.exe
+C:\Users\Zeynep\Desktop\Yeni klasör\GamePoject\GamePoject\bin\Debug\netcoreapp3.1\GamePoject.deps.json
+C:\Users\Zeynep\Desktop\Yeni klasör\GamePoject\GamePoject\bin\Debug\netcoreapp3.1\GamePoject.runtimeconfig.json
+C:\Users\Zeynep\Desktop\Yeni klasör\GamePoject\GamePoject\bin\Debug\netcoreapp3.1\GamePoject.runtimeconfig.dev.json
+C:\Users\Zeynep\Desktop\Yeni klasör\GamePoject\GamePoject\bin\Debug\netcoreapp3.1\GamePoject.dll
+C:\Users\Zeynep\Desktop\Yeni klasör\GamePoject\GamePoject\bin\Debug\netcoreapp3.1\GamePoject.pdb
+C:\Users\Zeynep\Desktop\Yeni klasör\GamePoject\GamePoject\obj\Debug\netcoreapp3.1\GamePoject.csprojAssemblyReference.cache
+C:\Users\Zeynep\Desktop\Yeni klasör\GamePoject\GamePoject\obj\Debug\netcoreapp3.1\GamePoject.AssemblyInfoInputs.cache
+C:\Users\Zeynep\Desktop\Yeni klasör\GamePoject\GamePoject\obj\Debug\netcoreapp3.1\GamePoject.AssemblyInfo.cs
+C:\Users\Zeynep\Desktop\Yeni klasör\GamePoject\GamePoject\obj\Debug\netcoreapp3.1\GamePoject.csproj.CoreCompileInputs.cache
+C:\Users\Zeynep\Desktop\Yeni klasör\GamePoject\GamePoject\obj\Debug\netcoreapp3.1\GamePoject.dll
+C:\Users\Zeynep\Desktop\Yeni klasör\GamePoject\GamePoject\obj\Debug\netcoreapp3.1\GamePoject.pdb
+C:\Users\Zeynep\Desktop\Yeni klasör\GamePoject\GamePoject\obj\Debug\netcoreapp3.1\GamePoject.genruntimeconfig.cache
